@@ -1,5 +1,13 @@
 # Antigravity IDE Installer
 
+> **Nota sobre este fork:** este repositório é um fork mantido ativamente do
+> instalador original. Uso e mantenho este projeto no dia a dia para gerenciar
+> minhas próprias instalações do Antigravity IDE em máquinas Ubuntu/Debian.
+>
+> Acompanhe o histórico de commits deste fork para ver exatamente o que foi
+> alterado em relação ao upstream (`a-sajjad72/antigravity-ide-installer`).
+
+
 [![License](https://img.shields.io/github/license/a-sajjad72/antigravity-ide-installer?style=flat-square&color=blue)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/a-sajjad72/antigravity-ide-installer?style=flat-square&color=gold)](https://github.com/a-sajjad72/antigravity-ide-installer/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/a-sajjad72/antigravity-ide-installer?style=flat-square)](https://github.com/a-sajjad72/antigravity-ide-installer/commits/main)
